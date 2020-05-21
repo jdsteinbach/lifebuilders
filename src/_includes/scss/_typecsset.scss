@@ -257,7 +257,7 @@ samp {
  * 1. Hang the opening quote of the blockquote.
  */
 blockquote {
-  text-indent: -0.41em; /* [1] */
+  // text-indent: -0.41em; /* [1] */
 }
 
 /**
@@ -270,20 +270,20 @@ blockquote {
   @include typecsset-space(margin-left);
 
   p {
-    &:before {
-      content: "“";
-      content: open-quote;
-    }
+    // &:before {
+    //   content: "“";
+    //   content: open-quote;
+    // }
 
-    &:after {
-      content: "";
-      content: no-close-quote;
-    }
+    // &:after {
+    //   content: "";
+    //   content: no-close-quote;
+    // }
 
-    &:last-of-type:after {
-      content: "”";
-      content: close-quote;
-    }
+    // &:last-of-type:after {
+    //   content: "”";
+    //   content: close-quote;
+    // }
   }
 }
 

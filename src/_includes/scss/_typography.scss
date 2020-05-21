@@ -40,6 +40,7 @@ blockquote {
   margin: 0;
   padding: 0;
   list-style: none;
+
   li {
     margin: 0;
     padding: 0;
@@ -56,34 +57,64 @@ a:visited {
     color: $darkblue;
   }
 }
+
 .pages-list {
+  h2 {
+    @extend h4;
+
+    margin-bottom: .5 * $typecsset-magic-number;
+    margin-bottom: .5 * $typecsset-magic-ratio + rem;
+  }
+
   ul {
     @extend %clean-list;
 
     margin-bottom: $typecsset-magic-number;
     margin-bottom: $typecsset-magic-ratio + rem;
-    background: $offwhite;
-
-    a {
-      padding-left: 2em;
-
-      &:hover {
-        background: $lightgray;
-      }
-    }
+    counter-reset: pagelist;
   }
 
   li {
     @extend h5;
 
+    font-family: $font;
+    counter-increment: pagelist;
+
     a {
-      text-decoration: none;
-      display: block;
-      padding: .5em;
+      display: inline-block;
+      padding: .5rem 1rem;
+
+      &::before {
+        content: counter(pagelist) ") ";
+      }
     }
   }
 
   a {
     text-decoration: none;
+
+    &:hover,
+    &:active,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}
+
+.pages-list__item {
+  @extend %clear;
+
+  margin-top: 2 * $typecsset-magic-number;
+  margin-top: 2 * $typecsset-magic-ratio + rem;
+  margin-bottom: 3 * $typecsset-magic-number;
+  margin-bottom: 3 * $typecsset-magic-ratio + rem;
+
+  p a {
+    @include typecsset-font-size($typecsset-h6-size);
+
+    float: right;
+    font-family: $font-headings;
+    text-transform: uppercase;
+    letter-spacing: (1em / 16);
   }
 }

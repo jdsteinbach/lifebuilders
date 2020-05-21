@@ -1,7 +1,7 @@
 ---
 title: Savior / Gospel
 subtitle: Titles of Benevolence
-description: Christ & Caesar
+description: The imperial cult presented Caesar as the governmental and military savior of the empire and its citizens. Paul, however, presented Jesus as a self-sacrificial savior of those who are united with him by faith.
 author: James Steinbach
 date: 2014-04-06
 tags: christ-caesar

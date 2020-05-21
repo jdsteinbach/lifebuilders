@@ -3,12 +3,15 @@ layout: _base
 ---
 
 <div class="pages-list">
-  <ul>
-    {% for link in collections[tags] %}
-      {% if link.data.title == title %}
-        {% continue %}
-      {% endif %}
-      <li><a href="{{ link.url }}">{{ link.data.title }}</a></li>
-    {% endfor %}
-  </ul>
+  {% for link in collections[tags] %}
+    {% if link.data.title == title %}
+      {% continue %}
+    {% endif %}
+    <div class="pages-list__item">
+      <h2>
+        <a href="{{ link.url }}">{{ link.data.title }}</a>
+      </h2>
+      <p>{{ link.data.description }}<br><a href={{ link.url }}>Continue&nbsp;Reading</a></p>
+    </div>
+  {% endfor %}
 </div>

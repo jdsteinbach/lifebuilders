@@ -1,7 +1,7 @@
 ---
 title: Peace / Security
 subtitle: Titles of Stabiity
-description: Christ & Caesar
+description: Paul’s concern is not that the empire promised peace and security per se, but that people might view imperial peace and security as ultimate. His desire is that his readers not be swayed to rely on a temporary, limited substitute for Jesus’ ultimate peace and security.
 author: James Steinbach
 date: 2014-04-13
 tags: christ-caesar

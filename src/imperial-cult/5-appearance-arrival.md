@@ -1,7 +1,7 @@
 ---
 title: Appearance / Arrival
 subtitle: Titles of Presence
-description: Christ & Caesar
+description: Both Paul and the Greek authors of the first century refer to the arrival of a notable leader or official. So long as citizens were living according to the rules of that leader, the arrival was eagerly anticipated. Paul uses “arrival” in this way to give his readers hope during difficulties and to motivate them to live like those who are under Jesus’ authority.
 author: James Steinbach
 date: 2014-04-26
 tags: christ-caesar
@@ -74,7 +74,7 @@ Both non‑imperial references in first‑century Greek literature and evidence 
 
 Neil Elliott observes: “Paul’s references to the parousia of Christ ... played on the diplomatic language for the arrival of a king or general at the gates of a city, with all the potential for threat or promise that such an advent implied” (*Paul and Politics*, 25).
 
-Both Paul and the Greek authors of the first century use παρουσίία with reference to the arrival of a notable leader or official. So long as the locals were living according to the rules of that leader, the arrival was eagerly anticipated. Paul uses “arrival” in this way to give his readers hope during difficulties and to motivate them to live like those who are under Jesus’ authority.
+Both Paul and the Greek authors of the first century use παρουσία with reference to the arrival of a notable leader or official. So long as the locals were living according to the rules of that leader, the arrival was eagerly anticipated. Paul uses “arrival” in this way to give his readers hope during difficulties and to motivate them to live like those who are under Jesus’ authority.
 
 ## Application
 

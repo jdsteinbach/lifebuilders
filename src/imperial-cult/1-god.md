@@ -1,7 +1,7 @@
 ---
 title: God / Son of God
 subtitle: Titles of Divinity
-description: Christ & Caesar
+description: The imperial use of “god” simply put the emperor on a pedestal above normal men; Paul uses “God” to identify Jesus as a different kind of being altogether.
 author: James Steinbach
 date: 2014-03-16
 tags: christ-caesar
