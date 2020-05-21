@@ -11,8 +11,8 @@ $black: #000;
 
 /* Text Variables */
 
-$sans: Freight Sans Pro, freight-sans-pro, Helvetica, sans-serif;
-$sans2: $sans;
+$font: Palatino Linotype, Palatino, Times, serif;
+$font-headings: Helvetica Neue, Helvetica, sans-serif;
 
 $font-size: 20px;
 $ratio: 1.414;
@@ -20,17 +20,13 @@ $ratio: 1.414;
 $typecsset-base-font-size: $font-size;
 $typecsset-base-line-height: $typecsset-base-font-size * $ratio;
 
-// Heading sizes
+/* Heading sizes */
 $typecsset-h5-size: $typecsset-base-font-size;
 $typecsset-h6-size: $typecsset-h5-size / $ratio;
 $typecsset-h4-size: $typecsset-h5-size * $ratio;
 $typecsset-h3-size: $typecsset-h5-size * $ratio;
 $typecsset-h2-size: $typecsset-h3-size * $ratio;
 $typecsset-h1-size: $typecsset-h3-size * $ratio;
-
-/* Bourbon Neat Variables */
-$grid-columns: 16;
-$gutter: 2em;
 
 /* Breakpoints */
 

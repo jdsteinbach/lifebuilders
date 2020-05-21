@@ -1,13 +1,17 @@
 .site-footer {
+
   margin-top: 4rem;
   padding: 1rem 0;
   background: $offwhite;
   box-shadow: 0 999em 0 999em $offwhite;
-  color: $darkblue;
-  text-align: center;
-  font-style: italic;
 
-  p:last-child {
+  p {
+    @extend h6;
+
     margin: 0;
+    font-style: italic;
+    font-family: $font-headings;
+    color: $darkgray;
+    text-align: center;
   }
 }
