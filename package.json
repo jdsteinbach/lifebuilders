@@ -1,0 +1,31 @@
+{
+  "name": "lifebuilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env ELEVENTY_ENV=dev eleventy --serve",
+    "start:debug": "cross-env ELEVENTY_ENV=dev DEBUG=Eleventy* eleventy",
+    "build": "cross-env ELEVENTY_ENV=prod eleventy",
+    "build:debug": "cross-env ELEVENTY_ENV=prod DEBUG=Eleventy* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdsteinbach/lifebuilders.git"
+  },
+  "author": "James Steinbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdsteinbach/lifebuilders/issues"
+  },
+  "homepage": "https://github.com/jdsteinbach/lifebuilders#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "autoprefixer": "^9.8.0",
+    "cross-env": "^7.0.2",
+    "cssnano": "^4.1.10",
+    "postcss": "^7.0.30",
+    "sass": "^1.26.5"
+  }
+}

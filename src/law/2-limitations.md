@@ -1,0 +1,118 @@
+---
+title: Limitations
+subtitle: God&rsquo;s Parameters for the Law
+description: "&ldquo;For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.&rdquo; Stand firm and don’t submit to slavery."
+author: James Steinbach
+date: 2014-08-24
+layout: index
+tags: law
+---
+
+## Introduction
+
+### Being enslaved to a cruel master is a problem.
+
+There are two ways to fix it: by being freed from slavery or by being enslaved to a good master. In Romans 6, Paul talks about being freed from sin and being enslaved to God. In that passage, he uses “slavery” as a neutral word – it’s good or bad depending on the character of the master. Here in Galatians 4, he only talks about the bad side of slavery. It’s slavery vs. freedom in Galatians 4 – there are no other options.
+
+What slavery is Paul talking about in this chapter? Let’s look back at the 3 previous chapters (Paul wrote 1 letter, not six chapters!):
+
+* The Gospel is from God, not human invention
+* The Christian life is about Christ’s life in us, not our effort or rules
+* Salvation (both initial conversion and present sanctification) is all about faith, not keeping rules and regulations.
+
+### Galatians = Anti-“what people come up with”
+
+The common thread through all of those thoughts is this: it’s not about what people come up with. Humans didn’t come up with the Gospel message; humans don’t come up with the ability to live out the Gospel in their own strength or by their own rules; humans don’t get saved or stay saved by their own obedience or standards.
+
+### Practical legalism
+
+As we talked about during the introduction, all of these points come together to help us guard against “practical legalism.” We believe in salvation by grace through faith, not by works” all day long, but if we turn around and take some behavior issues and turn them into the litmus test for real salvation, we’re demonstrating that we really believe that those behavior issues are part of getting saved. While theologically we may say that works don’t save, we’re acting like “practical legalists.”
+
+What Paul is combating in Galatia is a problem we struggle with also – extra-biblical tradition ruining churches. In Galatia, they took the OT code of regulations and applied it in ways that were way outside of God’s intention for those rules. Even though they had words from the Scripture, they were imposing an extra-biblical standard on church life: “Gentiles must be circumcised, eat certain foods, etc, in order to be part of the body.” If that standard wasn’t from the Word of God (as God intended it to be understood and obeyed), where did it come from? Humans. God didn’t say, “Enforce these parts of the Law on Christians.” People did.
+
+In America today, we do a very similar thing – we take things humans come up with and turn them into rules that must govern our lives, the lives of others in our dorm or church, or any Christian. What are some of the ways we do that? What are some human ideas that we’ve turned into essential parts of Christianity?
+
+Be careful here – don’t always apply this to another generation or to the crazy hyper-KJV-suits-and-head-covering church across town. What are some personal struggles YOU have with adding your ideas to Christianity? Hold that thought for now. We’re going to come back to this during some application time at the end.
+
+### Slavery is bad and freedom is good.
+
+So slavery vs. freedom. I’ll go ahead and give away the surprise ending for you – slavery is bad and freedom is good. That’s how we normally feel about that topic anyway, but in this chapter, Paul teaches us that freedom from extra-biblical human tradition is good (not just because we like it, but) because it’s the God-ordained result of our salvation. Slavery to extra-biblical human tradition is bad (not just because we find it “restrictive,” but) because it’s an attempt to undo what God is doing as he saves us. This is probably one of the clearest “Gospel and real life” connections we can see.
+
+Gospel ≠ buzzword. The Gospel is the good news that Jesus died in our place and rose again – taking all our sins to the cross and giving us his perfect righteousness. Today’s topic (slavery vs. freedom) explains why that news is good news.
+
+## Childhood vs. Adulthood
+
+Paul starts out with an illustration that continues chapter 3:
+
+> [3.23] Now before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed. So then, the law was our guardian until Christ came, in order that we might be justified by faith. But now that faith has come, we are no longer under a guardian, for in Christ Jesus you are all sons of God, through faith. For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise.
+
+> [4.1] I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything, but he is under guardians and managers until the date set by his father. In the same way we also, when we were children, were enslaved to the elementary principles of the world. But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” So you are no longer a slave, but a son, and if a son, then an heir through God.
+
+### Roman adoption = making a son a full heir.
+
+The illustration Paul uses is a foreign one to us: adoption. Adoption in the Greco-Roman culture that Paul and the Galatians lived in was very different from today. Adoption today means taking a child who’s not biologically yours and legally making him or her your child. Roman adoption happened within the family to biological sons. It was the marker of maturity where a father took his natural-born son and legally made him an heir and adult son. Before “adoption” the son still belonged to his father, but he spent his days under the care of a guardian who governed his choices, kept his freedoms in check, and trained/instructed him toward maturity. That is what the OT law did for God’s people. It governed their choices, kept their freedoms in check, trained them toward maturity.
+
+### The Law (a guardian) was temporary.
+
+But the guardian did not rule the child forever. At the day of adoption, the guardian’s role was officially over and the son was treated with all the rights and responsibilities of an adult. During what period of time was did the Law serve as guardian for God’s people? “So then, the law was our guardian until Christ came, in order that we might be justified by faith” (3.24). Only until Christ came.
+
+Fullness of time – could explain details of history, language, politics, etc, that made that part of the Roman era an incredibly serendipitous time for the birth of the Messiah, but Paul isn’t pointing at those things specifically. He’s pointing up at God’s purpose in sending Christ. Politics are insignificant compared to God’s plan. He could have orchestrated ripe conditions for the Messiah’s birth whenever he wanted to; Paul’s point is that God sent Jesus when the time was right for this mark in God’s salvation plan. God sent his Son at just the right time to bring his people out from under the Law and into relationship of familial love and freedom.
+
+Correction: KJV – “schoolmaster” does NOT mean “we should use the Law as we witness to teach people that they’re sinful before we can tell them Jesus died for their sins.” It just means that God put the Law in place as a guardian until Jesus came. When Jesus came, the day of adoption came in God’s salvation plan for his people. No more Law to govern our choices, keep our freedoms in check, or train us for maturity.
+
+### We go straight to our Father.
+
+So what is life like for God’s people now that the Law’s guardian role is over and we’re full responsible heirs? We have the Holy Spirit inside of us constantly reminding us of our relationship to the Father and drawing us to closeness with him.
+
+> And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” So you are no longer a slave, but a son, and if a son, then an heir through God (4.6-7).
+
+Whether you believe that “Abba” is child’s sweet cry of “Daddy” or a young man’s respectful address to “Father,” the point is the same – we interact with God as full mature children. We no longer have the Law as a go-between guardian. We go straight to our Father and no one but him tells us what to do.
+
+## No One Else Gets to Be Our “Guardian”
+
+So the Law has been removed from us as our guardian – what difference does that make for us today? The application Paul is driving to is this: God took the Law out of its place as guardian, so we cannot be forced to live under it again. Also, we don’t live under any other “guardian” in the Law’s place.
+
+> [4.8] Formerly, when you did not know God, you were enslaved to those that by nature are not gods. But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more? You observe days and months and seasons and years! I am afraid I may have labored over you in vain.
+
+### Slavery is pre-salvation.
+
+Paul forcefully states that slavery to sinful influences is normal before conversion, but impossible after. We’ve heard that kind of preaching and teaching for almost our whole lives – once you put your faith in Jesus, you’re freed from sin’s power and your heart changes. But look how Paul accuses them of returning to pre-salvation slavery: they observed days and months and seasons and years (10). What’s that all about? If we were writing this letter, we’d say, “Don’t return to bondage like immorality, drunkenness, theft, hatred, etc.” We’d name all the sins that we’ve heard about people committing before they were saved – all those “Unshackled” stories. But Paul accuses them of a different way of returning to bondage – the Galatian problem here is not returning to lawless, rebellious, arrogant, promiscuous lives; it’s adding rules to the Christian Gospel. The phrase “days and months and seasons and years” is most likely a reference to the holy days and feast days on the Jewish calendar. This would go hand in hand with circumcision as evidence that the Galatian church was compromising the Gospel under the influence of Judaizers. Paul warned them not to return to slavery because they were allowing people to add extra-biblical human tradition to Christianity. His fear was intense: I am afraid I may have labored over you in vain (11). The ultimate mark of a Christian is perseverance and Paul was serious about this problem. If they had begun a Christian-looking experience only to turn aside into “practical legalism,” Paul’s evangelistic work among them would have been fruitless.
+
+### Concern about practical legalism is genuine.
+
+Paul’s next paragraph is a testimony to his real care for the Galatians and to the serious reality of their struggle.
+
+> [4.12] Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong. You know it was because of a bodily ailment that I preached the gospel to you at first, and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus. What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me. Have I then become your enemy by telling you the truth? They make much of you, but for no good purpose. They want to shut you out, that you may make much of them. It is always good to be made much of for a good purpose, and not only when I am present with you, my little children, for whom I am again in the anguish of childbirth until Christ is formed in you! I wish I could be present with you now and change my tone, for I am perplexed about you.
+
+He doesn’t dignify his opponents with a name or title here; he just points out that those who would re-enslave the Galatians are out to take advantage of them.
+
+This is a point to be careful about. It’s easy to be an expert at identifying everyone else’s practical legalism. Even if you do spot it in someone else’s life, don’t assume that they’re out to ruin you with a personal, sinister motive. To be honest, most of the “practical legalists” I’ve known were genuine in their attempt to please God, but were very wrong about the relationship between external behavior and God’s delight. If you end up dealing with someone else who struggles with this, be patient and kind. If you’re able to identify practical legalism, it’s probably because you’ve been in it and God corrected you, so be patient and kind as he corrects others in his time.
+
+## Freedom and Slavery Don’t Co-Exist
+### Different sons cannot be the same person.
+
+Paul pulls an illustration from the Old Testament – Hagar & Ishmael vs. Sarah & Isaac.
+
+> [4.21] Tell me, you who desire to be under the law, do you not listen to the law? For it is written that Abraham had two sons, one by a slave woman and one by a free woman. But the son of the slave was born according to the flesh, while the son of the free woman was born through promise. Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar. Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children. But the Jerusalem above is free, and she is our mother. For it is written,
+	“Rejoice, O barren one who does not bear;
+		break forth and cry aloud, you who are not in labor!
+	For the children of the desolate one will be more
+		than those of the one who has a husband.”
+
+Why Ishmael & Isaac? This goes back to ch3 when Paul pointed us at Abraham who received God’s salvation promise 430 years before the Mosaic Law was given. Abraham stands as the first holder of the promise of salvation through God’s chosen messiah and all who are saved in Jesus are Abraham’s descendants (3.15-18, 29). Paul uses Isaac as a picture of God’s work in fulfilling the promise (salvation by faith) and Ishmael as an example of people trying to do God’s work their way in their strength. The two are mutually exclusive. Ishmael wasn’t part promise, mostly works; Isaac wasn’t mostly promise, some human scheme. Ishmael was all effort; Isaac was all promise. This illustration turns a sharp irony toward the Jews who wanted the Law to regulate the Church. They thought of themselves as Abraham’s rightful children, but Paul tells this story in a way that they end up compared to Ishmael & Hagar. Talk about an attention-grabber!
+
+### Throw away the human tradition.
+
+> [4.28] Now you, brothers, like Isaac, are children of promise. But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now. But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.” So, brothers, we are not children of the slave but of the free woman.
+
+The point for the Galatians was simple: if human works & promise don’t mix, you must discard the human attempt. If extra-biblical human tradition and real Christian growth don’t mix, you have to discard the tradition. The two are mutually exclusive; you can’t work out a joint custody arrangement.
+
+5.1 is the summary statement of all that Paul has been arguing for in ch4: “For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.” What’s the application of today’s lesson? Stand firm and don’t submit to slavery.
+
+## Application
+
+* Am I more concerned to please human authority or God?
+* Do I look at others with more sensitivity to their heart or to their appearance?
+* Are there things that I do in order to “please God,” but can’t find Scriptural support for?
+* Do I find it difficult to love people who have lower/higher standards than I have?
+* Do I thoughtfully choose to please God or merely mimic another person’s example?

@@ -1,0 +1,149 @@
+@function strip-unit($num) {
+	@if $num == auto or $num == inherit {
+		@return $num;
+	} @else {
+		@return $num / ($num * 0 + 1);
+	}
+}
+
+@mixin px-rem($property, $values...) {
+	$max: length($values);
+	$pxValues: '';
+	$remValues: '';
+	
+	@for $i from 1 through $max {
+		$value: strip-unit(nth($values, $i));
+
+		@if $value == auto or $value == inherit or $value == 0 {
+			$pxValues: #{$pxValues + $value};
+		} @else {
+			$pxValues: #{$pxValues + $value}px;	  	
+		}		
+
+		@if $i < $max {
+			$pxValues: #{$pxValues + " "};
+		}
+	} 
+	
+	@for $i from 1 through $max {
+		$value: strip-unit(nth($values, $i));
+		@if $value == auto or $value == inherit or $value == 0 {
+			$remValues: #{$remValues + $value};
+		} @else {
+			$remValues: #{$remValues + $value / 10}rem;
+		}
+		@if $i < $max {
+			$remValues: #{$remValues + " "};
+		}
+	} 
+	
+	#{$property}: $pxValues; 
+	#{$property}: $remValues; 
+}
+
+@mixin width-height($x...) {
+	@if length($x) == 1 {
+		@include px-rem(width,nth($x,1));
+		@include px-rem(height,nth($x,1));
+	} @else {
+		@include px-rem(width,nth($x,1));
+		@include px-rem(height,nth($x,2));
+	}
+}
+@mixin center($hz,$vt) {
+	.csstransforms & {
+		position: relative;
+		@if $hz == 'hz' and $vt == 'vt' {
+			top: 50%;
+			left: 50%;
+			@include transform(translateX(-50%) translateY(-50%));
+		} @else if $hz == 'hz' {
+			left: 50%;
+			@include transform(translateX(-50%));			
+		} @else if $vt == 'vt' {
+			top: 50%;
+			@include transform(translateY(-50%));			
+		}
+	}
+}
+@mixin horizontal-center() {
+	.csstransforms & {
+		position: relative;
+		left: 50%;
+		margin-left: -50%;
+	}
+}
+@mixin placeholder() {
+	::-webkit-input-placeholder { 
+		@content;
+	}	
+	:-moz-placeholder {
+		@content;
+
+	}
+	::-moz-placeholder {
+		@content;
+	}
+	
+	:-ms-input-placeholder {  
+		@content;
+	}
+}
+
+@mixin fsmooth($attr) {
+	@if $attr == yes {
+		-webkit-font-smoothing: antialiased;
+		font-smoothing: antialiased;
+	} @else {
+		-webkit-font-smoothing: subpixel-antialiased;
+		font-smoothing: subpixel-antialiased;
+	}	
+}
+@mixin reset {
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	list-style: none;
+}
+@mixin abs($t,$r,$b,$l) {
+	position: absolute;
+	@include px-rem(top,$t);
+	@include px-rem(right,$r);
+	@include px-rem(bottom,$b);
+	@include px-rem(left,$l);
+}
+@mixin hide($bp) {
+	@if $bp == all {
+		display: none; 
+		width: 0;
+		height: 0;
+		overflow: hidden;
+		clip: rect(0,0,0,0);
+	} @else {
+		@include breakpoint($bp) { 
+			display: none; 
+			width: 0;
+			height: 0;
+			overflow: hidden;
+			clip: rect(0,0,0,0);
+		}
+	}
+}
+
+@mixin breakpoint($point) {
+	@if $point == small {
+		@media (max-width: ($smallBP - 1px) ) { @content; }
+	} @else if $point == medium {
+		@media (min-width: $smallBP) { @content; }
+	} @else if $point == large {
+		@media (min-width: $mediumBP)  { @content; }
+	} @else if $point == wide {
+		@media (min-width: $largeBP) { @content; }
+	} @else {
+		@media (min-width: $point) { @content; }
+	}
+}
+
+//@mixin breakpoint($point) {
+//	@content;
+//}

@@ -1,0 +1,33 @@
+const fs = require('fs')
+const path = require('path')
+const sass = require('sass')
+const postcss = require('postcss')
+
+// the file name as an entry point for postcss compilation
+// also used to define the output filename in our output /css folder.
+const fileName = 'style.scss'
+
+module.exports = class {
+  async data () {
+    const rawFilepath = path.join(__dirname, `../_includes/css/sass/${fileName}`)
+    console.log(rawFilepath)
+    return {
+      permalink: `css/${fileName.replace('scss', 'css')}`,
+      rawFilepath,
+      rawCss: await fs.readFileSync(rawFilepath)
+    }
+  }
+
+  async render ({ rawCss, rawFilepath }) {
+    const sassToCss = sass.renderSync({
+      file: rawFilepath
+    })
+
+    return await postcss([
+      require('autoprefixer'),
+      require('cssnano')
+    ])
+    .process(sassToCss.css.toString())
+    .then(result => result.css)
+  }
+}
