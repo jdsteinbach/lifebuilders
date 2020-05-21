@@ -2,7 +2,7 @@
 title: Christ & Caesar
 description:
 author: James Steinbach
-Date: 2014/3/16
+date: 2014-03-16
 layout: category
 tags: christ-caesar
 ---

@@ -3,7 +3,7 @@ title: Appearance / Arrival
 subtitle: Titles of Presence
 description: Christ & Caesar
 author: James Steinbach
-Date: 2014/4/26
+date: 2014-04-26
 tags: christ-caesar
 layout: index
 ---

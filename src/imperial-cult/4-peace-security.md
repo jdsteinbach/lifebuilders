@@ -3,7 +3,7 @@ title: Peace / Security
 subtitle: Titles of Stabiity
 description: Christ & Caesar
 author: James Steinbach
-Date: 2014/4/13
+date: 2014-04-13
 tags: christ-caesar
 layout: index
 ---

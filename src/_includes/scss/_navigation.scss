@@ -1,0 +1,74 @@
+.main-navigation {
+  margin: 0;
+  padding: 0.5em 0;
+  display: block;
+}
+
+.menu-item {
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+a.menu-link {
+  @extend h5;
+
+  margin: 0;
+  display: block;
+  text-decoration: none;
+  padding: .5rem .75em;
+  color: $lightgray;
+  border-bottom: 1px solid transparent;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: $lightgray;
+    background-color: $mediumblue;
+  }
+
+  &.is-active {
+    border-bottom-color: $mediumblue;
+  }
+}
+
+.menu {
+  border-top: 1px solid $offwhite;
+}
+
+/* Small menu */
+.menu-toggle {
+  @include px-rem(height, 24);
+
+  background: $mediumblue;
+  padding: 0 1em;
+  border: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: none;
+}
+
+.js {
+  .menu-toggle,
+  .menu.active {
+    display: block;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  @include breakpoint(medium) {
+    .menu {
+      display: block;
+    }
+
+    .menu-toggle {
+      display: none;
+    }
+  }
+}

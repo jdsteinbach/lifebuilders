@@ -3,7 +3,7 @@ title: Savior / Gospel
 subtitle: Titles of Benevolence
 description: Christ & Caesar
 author: James Steinbach
-Date: 2014/4/6
+date: 2014-04-06
 tags: christ-caesar
 layout: index
 ---

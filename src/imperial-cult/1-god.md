@@ -3,7 +3,7 @@ title: God / Son of God
 subtitle: Titles of Divinity
 description: Christ & Caesar
 author: James Steinbach
-Date: 2014/3/16
+date: 2014-03-16
 tags: christ-caesar
 layout: index
 ---
@@ -60,9 +60,9 @@ The differences between the two uses of this title make it clear that Paul does 
 
 Use of the title "Son of God" is less common in the imperial cult. It developed primarily as a way to connect an emperor to the previous emperor who had been deified. In other words, it was shorthand for "son of the deified emperor who was before me."
 
-![Coin calling Augustus son of god](/lifebuilders/img/coin-divi-filius.jpg)
+![Coin calling Augustus son of god](/img/coin-divi-filius.jpg)
 
-![Inscription calling Augustus son of god](/lifebuilders/img/wall-divi-filius.jpg)
+![Inscription calling Augustus son of god](/img/wall-divi-filius.jpg)
 
 ### Pauline Usage
 

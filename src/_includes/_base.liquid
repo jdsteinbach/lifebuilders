@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="js">
+<html class="no-js">
 
 <head>
   <meta charset="utf-8">
@@ -17,9 +17,9 @@
 <body class="{{ layout }}">
   <div class="site">
     <header id="masthead" class="site-header">
-      <div class="site-title"><a href="{{ meta.base_url }} ">{{ meta.site_title }}</a></div>
-      <div class="menu-toggle">Menu</div>
-      <nav class="menu">
+      <div class="site-title"><a href="{{ site.base_url }} ">{{ site.site_title }}</a></div>
+      <button id="menu-toggle" class="menu-toggle">Menu</button>
+      <nav id="menu" class="menu">
         {% include _nav %}
       </nav>
     </header>
@@ -28,7 +28,22 @@
 
       {{ content }}
     </div>
-    <footer id="colophon" class="site-footer"></footer>
+    <footer id="colophon" class="site-footer">
+      <p>&copy; {{ site.first_year }}&ndash;{{ site.current_year }} James Steinbach. All rights reserved.</p>
+    </footer>
   </div>
+  <script>
+    var html = document.querySelector('html');
+    var toggle = document.getElementById('menu-toggle');
+    var menu = document.getElementById('menu');
+
+    html.classList.add('js');
+    html.classList.remove('no-js');
+
+    toggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      menu.classList.toggle('active');
+    });
+  </script>
 </body>
 </html>

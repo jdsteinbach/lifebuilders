@@ -2,4 +2,13 @@
 layout: _base
 ---
 
-<div class="pages-list">{% include _page-list %}</div>
+<div class="pages-list">
+  <ul>
+    {% for link in collections[tags] %}
+      {% if link.data.title == title %}
+        {% continue %}
+      {% endif %}
+      <li><a href="{{ link.url }}">{{ link.data.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

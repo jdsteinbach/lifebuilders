@@ -9,7 +9,7 @@ const fileName = 'style.scss'
 
 module.exports = class {
   async data () {
-    const rawFilepath = path.join(__dirname, `../_includes/css/sass/${fileName}`)
+    const rawFilepath = path.join(__dirname, `../_includes/scss/${fileName}`)
     console.log(rawFilepath)
     return {
       permalink: `css/${fileName.replace('scss', 'css')}`,

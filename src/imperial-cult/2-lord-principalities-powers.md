@@ -3,7 +3,7 @@ title: Lord / Principalities and Powers
 subtitle: Titles of Authority
 description: Christ & Caesar
 author: James Steinbach
-Date: 2014/3/23
+date: 2014-03-23
 tags: christ-caesar
 layout: index
 ---
