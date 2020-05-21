@@ -9,6 +9,8 @@ module.exports = eleventyConfig => {
     typographer: true
   }));
 
+  eleventyConfig.addPassthroughCopy('_redirects');
+
   return {
     dir: {
       input: './src'
