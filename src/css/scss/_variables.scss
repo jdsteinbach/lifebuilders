@@ -10,8 +10,8 @@
   --color-text: #000;
 
   /* Text Variables */
-  --font-body: Palatino Linotype, Palatino, Times, serif;
-  --font-headings: Helvetica Neue, Helvetica, sans-serif;
+  --font-body: Lora, Palatino Linotype, Palatino, Times, serif;
+  --font-headings: Lato, Helvetica Neue, Helvetica, sans-serif;
   --font-size-ratio: 1.414;
   --font-size-base: #{(20rem / 16)};
   --font-size-small: #{(16rem / 16)};
@@ -31,5 +31,5 @@
   --spacing-large: calc(var(--spacing) * 1.5);
   --spacing-huge: calc(var(--spacing) * 2);
 
-  --content-width: 32rem;
+  --content-width: 40rem;
 }
