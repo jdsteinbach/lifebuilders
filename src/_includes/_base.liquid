@@ -13,23 +13,30 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body class="{{ layout }}">
-  <div class="site">
-    <header id="masthead" class="site-header">
-      <div class="site-title"><a href="{{ site.base_url }} ">{{ site.site_title }}</a></div>
-      <button id="menu-toggle" class="menu-toggle">Menu</button>
-      <nav id="menu" class="menu">
-        {% include _nav %}
-      </nav>
-    </header>
-    <div id="content" class="site-content">
-      <h1 class="page-title">{{ title }}{% if subtitle %} - {{ subtitle }}{% endif %}</h1>
-
-      {{ content }}
+  <header id="masthead" class="site-header">
+    <div class="site-header__title">
+      <a href="{{ site.base_url }} ">{{ site.site_title }}</a>
     </div>
-    <footer id="colophon" class="site-footer">
-      <p>&copy; {{ site.first_year }}&ndash;{{ site.current_year }} James Steinbach. All rights reserved.</p>
-    </footer>
-  </div>
+    <button id="menu-toggle" class="site-header__nav-toggle">Menu</button>
+    <nav id="menu" class="site-header__nav">
+      {% include _nav %}
+    </nav>
+  </header>
+
+  <article id="content" class="site-content">
+    <header class="site-content__header">
+      <h1 class="site-content__title">{{ title }}{% if subtitle %} - {{ subtitle }}{% endif %}</h1>
+    </header>
+
+    <section class="site-content__content">
+      {{ content }}
+    </section>
+  </article>
+
+  <footer id="colophon" class="site-footer">
+    <p>&copy; {{ site.first_year }}&ndash;{{ site.current_year }} James Steinbach. All rights reserved.</p>
+  </footer>
+
   <script>
     var html = document.querySelector('html');
     var toggle = document.getElementById('menu-toggle');

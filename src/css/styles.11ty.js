@@ -9,7 +9,7 @@ const fileName = 'style.scss'
 
 module.exports = class {
   async data () {
-    const rawFilepath = path.join(__dirname, `../_includes/scss/${fileName}`)
+    const rawFilepath = path.join(__dirname, `./scss/${fileName}`)
     console.log(rawFilepath)
     return {
       permalink: `css/${fileName.replace('scss', 'css')}`,
@@ -25,7 +25,16 @@ module.exports = class {
 
     return await postcss([
       require('autoprefixer'),
-      require('cssnano')
+      require('cssnano')({
+        preset: [
+          'default',
+          {
+            discardComments: {
+              removeAll: true
+            }
+          }
+        ]
+      })
     ])
     .process(sassToCss.css.toString())
     .then(result => result.css)

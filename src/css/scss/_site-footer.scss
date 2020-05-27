@@ -1,0 +1,15 @@
+.site-footer {
+  margin-top: var(--spacing-large);
+  padding: var(--spacing) 0;
+  background: var(--color-background-alt);
+
+  p {
+    margin: 0;
+    font-size: var(--font-size-small);
+    line-height: var(--line-height-small);
+    font-style: italic;
+    font-family: var(--font-headings);
+    color: var(--color-text-alt);
+    text-align: center;
+  }
+}

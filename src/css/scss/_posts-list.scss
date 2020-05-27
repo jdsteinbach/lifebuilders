@@ -1,0 +1,23 @@
+.posts-list__title {
+  margin-bottom: var(--spacing-small);
+  font-size: var(--font-size-heading);
+  line-height: var(--line-height-heading);
+  text-transform: uppercase;
+  letter-spacing: (1em / 16);
+}
+
+.posts-list__item {
+  margin-top: var(--spacing-large);
+  margin-bottom: var(--spacing-huge);
+}
+
+.posts-list__continue-link {
+  margin-top: var(--spacing-small);
+  display: block;
+  font-family: var(--font-headings);
+  font-size: var(--font-size-small);
+  line-height: var(--line-height-small);
+  text-transform: uppercase;
+  letter-spacing: (1em / 16);
+  text-align: right;
+}

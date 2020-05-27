@@ -3,16 +3,22 @@ layout: _base
 ---
 <div class="pages-list">
   {% for cat in collections.nav %}
-    <h2><a href="{{ cat.url }}">{{ cat.data.title }}</a></h2>
-    <ul>
+    <h2 class="pages-list__title">
+      <a class="pages-list__title-link" href="{{ cat.url }}">
+        {{ cat.data.title }}
+      </a>
+    </h2>
+    <ol class="pages-list__list">
       {% for link in collections[cat.data.tags] %}
         {% if link.data.title == cat.data.title %}
           {% continue %}
         {% endif %}
-        <li>
-          <a href="{{ link.url }}">{{ link.data.title }}</a>
+        <li class="pages-list__list-item">
+          <a class="pages-list__list-item-link" href="{{ link.url }}">
+            {{ link.data.title }}
+          </a>
         </li>
       {% endfor %}
-    </ul>
+    </ol>
   {% endfor %}
 </div>

@@ -1,0 +1,35 @@
+:root {
+  /* Color Variables */
+  --color-accent-dark: #14225f;
+  --color-accent-medium: #005595;
+  --color-borders: #c6c9ce;
+  --color-text-light: #e8e9eb;
+  --color-background-alt: #f8f8f8;
+  --color-background: #fff;
+  --color-text-alt: #5d6065;
+  --color-text: #000;
+
+  /* Text Variables */
+  --font-body: Palatino Linotype, Palatino, Times, serif;
+  --font-headings: Helvetica Neue, Helvetica, sans-serif;
+  --font-size-ratio: 1.414;
+  --font-size-base: #{(20rem / 16)};
+  --font-size-small: #{(16rem / 16)};
+  --font-size-heading: #{(30rem / 16)};
+  --font-size-title: #{(36rem / 16)};
+  --font-size-hero: #{(48rem / 16)};
+
+  --line-height-base: 1.8;
+  --line-height-small: 1.125;
+  --line-height-heading: 1.2;
+  --line-height-title: 1;
+  --line-height-hero: 1.125;
+
+  --spacing: #{(36rem / 16)};
+  --spacing-small: calc(var(--spacing) / 2);
+  --spacing-tiny: calc(var(--spacing) / 4);
+  --spacing-large: calc(var(--spacing) * 1.5);
+  --spacing-huge: calc(var(--spacing) * 2);
+
+  --content-width: 32rem;
+}

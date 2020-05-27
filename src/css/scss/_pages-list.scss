@@ -1,0 +1,28 @@
+.pages-list__title {
+  margin: 0 0 var(--spacing-small);
+  font-size: var(--font-size-heading);
+  line-height: var(--line-height-heading);
+  text-transform: uppercase;
+  letter-spacing: (1em / 16);
+}
+
+.pages-list__list {
+  margin: 0 0 var(--spacing);
+  padding: 0;
+  counter-reset: pagelist;
+}
+
+.pages-list__list-item {
+  font-family: var(--font-body);
+  counter-increment: pagelist;
+  list-style-type: none;
+}
+
+.pages-list__list-item-link {
+  display: inline-block;
+  padding: var(--spacing-tiny) var(--spacing-small);
+
+  &::before {
+    content: counter(pagelist) ") ";
+  }
+}

@@ -1,7 +1,7 @@
-<ul id="site-navigation" class="main-navigation">
+<ul id="site-navigation" class="main-nav">
   {% for n in collections.nav %}
-  <li class="menu-item">
-    <a href="{{ n.url }}" class="menu-link{{ n.url | active_class: page.url }}">{{ n.data.title }}</a>
+  <li class="main-nav__item">
+    <a href="{{ n.url }}" class="main-nav__link{{ n.url | active_class: page.url }}">{{ n.data.title }}</a>
   </li>
   {% endfor %}
 </ul>
