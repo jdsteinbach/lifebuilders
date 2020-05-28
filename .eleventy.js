@@ -24,6 +24,7 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addPassthroughCopy('_redirects');
   eleventyConfig.addPassthroughCopy('src/img');
+  eleventyConfig.addPassthroughCopy('src/fonts');
 
   eleventyConfig.addWatchTarget('src/css/**/*.scss');
 
