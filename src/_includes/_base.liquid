@@ -1,53 +1,66 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <title>{{ title }}</title>
-  <meta name="description" content="{{ description }}">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ site_title }} | {{ title }}</title>
-  <meta name="description" content="{{ description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/css/style.css">
-</head>
-<body class="{{ layout }}">
-  <header id="masthead" class="site-header">
-    <div class="site-header__title">
-      <a href="{{ site.base_url }} ">{{ site.site_title }}</a>
-    </div>
-    <button id="menu-toggle" class="site-header__nav-toggle">Menu</button>
-    <nav id="menu" class="site-header__nav">
-      {% include _nav %}
-    </nav>
-  </header>
-
-  <article id="content" class="site-content">
-    <header class="site-content__header">
-      <h1 class="site-content__title">{{ title }}{% if subtitle %} - {{ subtitle }}{% endif %}</h1>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ title }}
+    </title>
+    <meta name="description" content="{{ description }}">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ site_title }}
+      |
+      {{ title }}
+    </title>
+    <meta name="description" content="{{ description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body class="{{ layout }}">
+    <header id="masthead" class="site-header">
+      <div class="site-header__title">
+        <a href="{{ site.base_url }} ">{{ site.site_title }}
+        </a>
+      </div>
+      <button id="menu-toggle" class="site-header__nav-toggle">Menu</button>
+      <nav id="menu" class="site-header__nav">
+        {% include "_nav" %}
+      </nav>
     </header>
 
-    <section class="site-content__content">
-      {{ content }}
-    </section>
-  </article>
+    <article id="content" class="site-content">
+      <header class="site-content__header">
+        <h1 class="site-content__title">{{ title }}
+          {% if subtitle %}
+            -
+            {{ subtitle }}
+          {% endif %}
+        </h1>
+      </header>
 
-  <footer id="colophon" class="site-footer">
-    <p>&copy; {{ site.first_year }}&ndash;{{ site.current_year }} James Steinbach. All rights reserved.</p>
-  </footer>
+      <section class="site-content__content">
+        {{ content }}
+      </section>
+    </article>
 
-  <script>
-    var html = document.querySelector('html');
-    var toggle = document.getElementById('menu-toggle');
-    var menu = document.getElementById('menu');
+    <footer id="colophon" class="site-footer">
+      <p>&copy;
+        {{ site.first_year }}
+        &ndash;{{ site.current_year }}
+        James Steinbach. All rights reserved.</p>
+    </footer>
 
-    html.classList.add('js');
-    html.classList.remove('no-js');
+    <script>
+      var html = document.querySelector('html');
+      var toggle = document.getElementById('menu-toggle');
+      var menu = document.getElementById('menu');
 
-    toggle.addEventListener('click', function(e) {
-      e.preventDefault();
-      menu.classList.toggle('active');
-    });
-  </script>
-</body>
+      html.classList.add('js');
+      html.classList.remove('no-js');
+
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        menu.classList.toggle('active');
+      });
+    </script>
+  </body>
 </html>
