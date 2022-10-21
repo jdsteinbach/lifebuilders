@@ -3,7 +3,7 @@
   font-size: var(--font-size-heading);
   line-height: var(--line-height-heading);
   text-transform: uppercase;
-  letter-spacing: (1em / 16);
+  letter-spacing: var(--letter-spacing-wide);;
 }
 
 .pages-list__list {

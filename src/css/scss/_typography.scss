@@ -46,7 +46,7 @@ h4, h5, h6 {
 h4 {
   text-transform: uppercase;
   font-weight: bold;
-  letter-spacing: (1em / 16);
+  letter-spacing: var(--letter-spacing-wide);;
   color: var(--color-accent-dark);
 }
 

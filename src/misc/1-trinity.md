@@ -5,6 +5,7 @@ author: James Steinbach
 date: 2022-06-12
 layout: index
 tags: misc
+permalink: /trinity-communicate-jn-16/
 ---
 
 ## Introduction

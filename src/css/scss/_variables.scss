@@ -13,11 +13,11 @@
   --font-body: Lora, Palatino Linotype, Palatino, Times, serif;
   --font-headings: Lato, Helvetica Neue, Helvetica, sans-serif;
   --font-size-ratio: 1.414;
-  --font-size-base: #{(20rem / 16)};
-  --font-size-small: #{(16rem / 16)};
-  --font-size-heading: #{(30rem / 16)};
-  --font-size-title: #{(36rem / 16)};
-  --font-size-hero: #{(48rem / 16)};
+  --font-size-base: #{math.div(20rem, 16)};
+  --font-size-small: #{math.div(16rem, 16)};
+  --font-size-heading: #{math.div(30rem, 16)};
+  --font-size-title: #{math.div(36rem, 16)};
+  --font-size-hero: #{math.div(48rem, 16)};
 
   --line-height-base: 1.8;
   --line-height-small: 1.125;
@@ -25,7 +25,9 @@
   --line-height-title: 1;
   --line-height-hero: 1.125;
 
-  --spacing: #{(36rem / 16)};
+  --letter-spacing-wide: math.div(1em, 16);
+
+  --spacing: #{math.div(36rem, 16)};
   --spacing-small: calc(var(--spacing) / 2);
   --spacing-tiny: calc(var(--spacing) / 4);
   --spacing-large: calc(var(--spacing) * 1.5);
