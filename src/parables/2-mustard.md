@@ -22,9 +22,9 @@ The audience isn't specifically named here. We might assume it's the same as it 
 
 ## A Big Tree
 
-This is a very low-word-count parable. It focuses on one seed (mustard) and one characteristic of that seed (outsized growth). The plant is probably black mustard. Its seeds are so tiny that it would take ~700 sides to balance a single paper clip in a scale; for a closer comparison, it'd take ~300 mustard seeds to match a dry corn kernel.
+The plant is probably black mustard. Its seeds are so tiny that it would take ~700 seeds to balance a single paper clip in a scale; for a closer comparison, it'd take ~300 mustard seeds to match a dry corn kernel.
 
-That tiny size is important. Perhaps it's not precisely black mustard Jesus is imagining, but the heart of the parable is about the unexpected size change. Something really tiny defies all reasonable expectations and grows really big. Matthew & Luke vary a bit on wording how large the plant grows (calling it a "tree"), but Mark uses the most precise language: he says it becomes the largest vegetable. Matthew and Luke aren't "wrong" _per se_, just like Jesus isn't "wrong" to use superlative language like "smallest" / "largest" - this is figurative language and hyperbole is perfectly fine.
+That tiny size is important. Perhaps it's not precisely black mustard Jesus is imagining, but the weight of this comparison is about the unexpected size change. Something really tiny defies all reasonable expectations and grows really big. Matthew & Luke vary a bit on wording how large the plant grows (calling it a "tree"), but Mark uses the most precise language: he says it becomes the largest vegetable. Matthew and Luke aren't "wrong" _per se_, just like Jesus isn't "wrong" to use superlative language like "smallest" and "greatest" - this is figurative language and hyperbole is perfectly fine. (Side note, when we get into the OT background passages shortly, we'll see why the word "tree" is important, despite it not being horticulturally precise.)
 
 Consider what this comparison is revealing about the origin story of the kingdom of God. Though the kingdom will eventually become a huge haven, are there any ways we could see its inception as a mustard seed? Small, seemingly insignificant, nearly invisible, thoroughly unimpressive.
 
@@ -164,6 +164,8 @@ We can draw the following conclusions from these OT texts:
 So what about the church? It's easy to recognize the inherent potential for ego, abuse, and violence in worldly kingdoms and empires. Is Jesus pointing out those risks in his kingdom on earth?
 
 ## God's Kingdom: the Big Bird Tree
+
+I see the two themes (big growth from insignificant beginnings, God's ideal kingdom safety) coming together perfectly. Jesus' humble kingdom origins flew in the face of Rome's might and pride; the ideal kingdom of God stands in contrast to the arrogance and violence of human kingdoms.
 
 * Jesus' ministry might well be described as an inauspicious beginning for God's universal kingdom. How often are we mindful of those seemingly insignificant origins of the kingdom?
   * How does that mindset shape our perspective and tactics for kingdom growth?
