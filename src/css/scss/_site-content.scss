@@ -12,7 +12,7 @@
   display: grid;
   grid-template-columns: min(calc(100% - var(--spacing-small)), var(--content-width));
   justify-content: center;
-  background: var(--color-text-light);
+  background: var(--color-background-alt);
 }
 
 .site-content__title {

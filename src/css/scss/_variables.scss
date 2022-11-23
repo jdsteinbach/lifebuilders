@@ -1,5 +1,6 @@
 :root {
   /* Color Variables */
+  --color-accent-neutral: #14225f;
   --color-accent-dark: #14225f;
   --color-accent-medium: #005595;
   --color-borders: #c6c9ce;
@@ -8,6 +9,23 @@
   --color-background: #fff;
   --color-text-alt: #5d6065;
   --color-text: #000;
+  --color-text-link: var(--color-accent-medium);
+  --color-text-link-active: var(--color-accent-dark);
+
+  @media (prefers-color-scheme: dark) {
+    /* Color Variables */
+    --color-accent-neutral: #101b4c; //✅
+    --color-accent-dark: #cfd0d1; //✅
+    --color-accent-medium: #003c68; //✅
+    --color-borders: #636567;
+    --color-text-light: #e8e9eb;
+    --color-background-alt: #232323; //✅
+    --color-background: #111; //✅
+    --color-text-alt: #9ea0a3; //✅
+    --color-text: #fff; //✅
+    --color-text-link: #6699bf;
+    --color-text-link-active: #99bbd5;
+  }
 
   /* Text Variables */
   --font-body: Lora, Palatino Linotype, Palatino, Times, serif;

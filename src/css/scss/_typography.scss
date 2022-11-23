@@ -1,3 +1,8 @@
+html {
+  color: var(--color-text);
+  background: var(--color-background);
+}
+
 body {
   font-family: var(--font-body);
   font-size: var(--font-size-base);
@@ -46,7 +51,7 @@ h4, h5, h6 {
 h4 {
   text-transform: uppercase;
   font-weight: bold;
-  letter-spacing: var(--letter-spacing-wide);;
+  letter-spacing: var(--letter-spacing-wide);
   color: var(--color-accent-dark);
 }
 
@@ -61,16 +66,42 @@ blockquote {
   color: var(--color-text-alt);
   font-family: var(--font-headings);
   font-style: italic;
+
+  p {
+    white-space: pre-wrap;
+  }
+
+  br {
+    float: left;
+  }
+
+  em {
+    font-size: 0.67em;
+    font-style: normal;
+    vertical-align: super;
+  }
 }
 
 a {
-  color: var(--color-accent-medium);
+  color: var(--color-text-link);
   text-decoration: none;
 
   &:hover,
   &:active,
   &:focus {
-    color: var(--color-accent-dark);
+    color: var(--color-text-link-active);
     text-decoration: underline;
+  }
+
+  &:focus {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+  }
+}
+
+button {
+  &:focus {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
   }
 }
