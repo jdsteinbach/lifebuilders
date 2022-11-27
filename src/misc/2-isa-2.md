@@ -129,4 +129,4 @@ This is the endgame of the tangible reversals we found in Isa 2. Only in a kingd
 
 This is the vision that Isaiah cast, that Jesus embodies, and that John has caught. In the light of the Lord, in Light of the world, and in the light of the Lamb, we find the darkness of the world pierced, its shadows fleeing away to give us a glimpse of one kingdom, one beauty, one perfection: the peaceful reign of Jesus himself. As we practice patience during this Advent, as we incrementally light candles at church and at home, may we walk in his light.
 
-> May the light of the Lord show us peace amidst our problems, may the Light of the world reveal hope where we've experienced hostility, may the light of the Lamb grant us comfort in the face of confusion.
+> May the light of the Lord show us peace amidst our problems, may the Light of the world reveal hope where we've experienced hostility, may the light of the Lamb grant us comfort in the face of chaos.
