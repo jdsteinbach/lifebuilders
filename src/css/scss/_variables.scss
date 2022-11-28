@@ -43,7 +43,7 @@
   --line-height-title: 1;
   --line-height-hero: 1.125;
 
-  --letter-spacing-wide: math.div(1em, 16);
+  --letter-spacing-wide: #{math.div(1em, 16)};
 
   --spacing: #{math.div(36rem, 16)};
   --spacing-small: calc(var(--spacing) / 2);
