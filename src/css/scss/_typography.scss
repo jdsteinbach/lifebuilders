@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: var(--spacing) 0 var(--spacing-small);
+  margin: var(--spacing-large) 0 var(--spacing);
   color: var(--color-text-alt);
   font-weight: normal;
   font-family: var(--font-headings);
@@ -42,7 +42,9 @@ h3 {
   line-height: var(--line-height-heading);
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   margin-bottom: var(--spacing-tiny);
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
@@ -56,7 +58,7 @@ h4 {
 }
 
 p {
-  margin: 0 0 var(--spacing-small);
+  margin: 0 0 var(--spacing);
 }
 
 blockquote {
