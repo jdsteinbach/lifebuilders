@@ -106,7 +106,21 @@ Recall Isaiah's vision of his calling in chapter 6. God assigned him this minist
 > &#9;and the land is utterly desolate;
 > *12* until the Lord sends everyone far away.
 
-It's no wonder he's worried (years later) that he's spent his strength for nothing and vanity!
+It's no wonder he's worried (years later) that he's "spent [his] strength for nothing and vanity!"
+
+The second half of Isaiah's complaint is worth paying attention to. On a quick read, it might seem like he's still holding on to faith in spite of discouragement and he is, in one sense. Those words do trust God with the outcomes, but there's more under the surface. In fact, Isaiah's statement that "my cause is with the Lord and my reward is with God" is not merely a positive fix that completely removes his discouragement; on the contrary, he's actually holding God accountable for the circumstances that are discouraging him. The word "cause" isn't our modern "cause" like a purpose in life or a mission to accomplish. It's the Hebrew word normally translated "judgment." And "reward" simply means "wages" or "compensation" (not "something extra" or "bonus" like we use it today). Isaiah is holding God to account to be the one who will judge correctly by providing proper compensation for his ministry. The full implication here is "this is going nowhere and, God, you're the one responsible." Like many other places in Scripture, Isaiah is demonstrating that it's OK to complain to God, to voice our frustration at circumstances that are in God's control and not ours.
+
+We struggle with this. We often find it very challenging sitting with negativity in a sustained way. Certain types of social media use undermine both the reality of imperfection and our ability to sustain attention. Culturally, we are aware of this and we've come up with the label "toxic positivity" to describe efforts to use positive spin to deny the reality of negative situations or to avoid fully processing those situations and the emotions they bring. But here's what we tend to do: we'll say something negative about a bad situation or circumstance, then we feel a need to backpedal immediately by tacking on a positive (often religious) platitude.
+
+* "You would not believe what I'm going through at work, *but hey, this too shall pass!*"
+* "Physically and emotionally, I'm struggling so hard with the symptoms of [this sickness], *but hey, God is good!*"
+* "I've been having such a hard time with a really important relationship (or with the lack thereof), *but hey, God is all I need, right?*"
+* "My traumatic experience feels so fresh and, honestly, it's messing with my head almost every day, *but hey, God works all things together.*"
+* "My parent's (or other loved one) death has left me feeling really down, *but hey, they're with Jesus now so that's good for them.*"
+
+Friends, we don't have to "overcorrect" like that. It's OK to frame a legitimate complaint as truly negative *without reversing course to insert a layer of pious-sounding positivity.* Isaiah doesn't do that: instead of undermining the reality of his complaint with some pull-his-bootstraps positivity, he intensifies the complaint by pointing it at God. He says, "this ministry is going nowhere fast; God is responsible for the results."
+
+I do want to clarify that if you're balancing responses of faith with painful circumstances, that's totally fine. YOu are absolutely allowed to feel and talk about both things at once! I'm not telling us to sit around and just be Eeyores with no hope in sight. I am reminding us that avoidance and denial are usually not the best long-term responses to negative circumstances and emotions, and that using spiritual sounding phrases doesn't make avoidance and denial any holier. I'm aiming to communicate grace to you. In fact, let's probe a little deeper. There's even more grace available in the recognition that "God is the one responsible" than just permission to ask God hard questions. Let's consider why we're tempted to avoid hard words and hard feelings or to deny the reality of negative circumstances. Avoidance and denial enable us to stave off a sense of failed responsibility, of personal blame and shame. Because, if we're responsible to fix the situation, and the situation (or our internal state) isn't getting better, then we're failing, and that feels shameful. Recognizing that God is responsible applies grace even deeper than we thought. If we don't have to fix all our negative situations, if we aren't responsible for forcing our emotions to disagree with our circumstances, well then, we don't need to keep avoidance and denial at the ready, do we?
 
 4 obscurity leads to discouragement, Isaiah points the responsibility squarely at God
 * Ways we are discouraged
@@ -119,7 +133,6 @@ It's no wonder he's worried (years later) that he's spent his strength for nothi
         * Performative righteousness, virtue signaling, hypocrisy
         * Comfort, materialism, “American Dream”
         * Lust, infidelity, light view of marriage and divorce
-
 
 ## Unimaginable Success of God's Kingdom (5-7)
 
