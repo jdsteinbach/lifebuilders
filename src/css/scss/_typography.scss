@@ -107,3 +107,11 @@ button {
     outline-offset: 2px;
   }
 }
+
+li > p {
+  margin-bottom: var(--spacing-tiny);
+}
+
+hr {
+  margin: var(--spacing) 0;
+}
