@@ -1,6 +1,6 @@
 ---
 title: "Telling the Gospel Story with Philip (Acts 8)"
-description: We face discouragements in life and ministry, but God is accomplishing something larger than we can imagine.
+description: Sometimes our fears about evangelism are unfounded. Philip's example helps us use story to share the Gospel.
 author: James Steinbach
 date: 2023-07-02
 layout: index
