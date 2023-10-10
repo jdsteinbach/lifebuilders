@@ -5,7 +5,7 @@ author: James Steinbach
 date: 2023-10-08
 layout: index
 tags: misc
-permalink: /willing-to-be-found/
+permalink: false
 eleventyExcludeFromCollections: true
 ---
 
