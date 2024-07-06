@@ -5,7 +5,6 @@ author: James Steinbach
 date: 2023-10-08
 layout: index
 tags: misc
-permalink: false
 eleventyExcludeFromCollections: true
 ---
 

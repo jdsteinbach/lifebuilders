@@ -4,7 +4,7 @@ let markdownIt = require('markdown-it');
 module.exports = eleventyConfig => {
   eleventyConfig.addFilter('active_class', (linkUrl, pageUrl) => {
     const linkRegExp = new RegExp('^' + linkUrl, 'i');
-    return pageUrl.match(linkRegExp) !== null ? ' is-active' : '';
+    return pageUrl && pageUrl.match(linkRegExp) !== null ? ' is-active' : '';
   });
 
   eleventyConfig.setLibrary('md', markdownIt({
