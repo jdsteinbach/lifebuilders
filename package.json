@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/jdsteinbach/lifebuilders#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
-    "autoprefixer": "^10.4.12",
+    "@11ty/eleventy": "^3.0.0",
+    "autoprefixer": "^10.4.20",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.1.13",
-    "postcss": "^8.4.18",
-    "sass": "^1.55.0"
+    "cssnano": "^7.0.6",
+    "postcss": "^8.4.49",
+    "sass": "^1.81.0"
   }
 }

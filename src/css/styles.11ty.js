@@ -18,9 +18,7 @@ module.exports = class {
   }
 
   async render ({ rawCss, rawFilepath }) {
-    const sassToCss = sass.renderSync({
-      file: rawFilepath
-    })
+    const sassToCss = sass.compile(rawFilepath)
 
     return await postcss([
       require('autoprefixer'),

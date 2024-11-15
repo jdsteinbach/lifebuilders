@@ -1,3 +1,5 @@
+@use "sass:math";
+
 .site-header {
   display: grid;
   grid-template-columns: min(calc(100% - var(--spacing-small)), var(--content-width));
