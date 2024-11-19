@@ -67,6 +67,7 @@ blockquote {
   border-left: var(--spacing-small) solid var(--color-borders);
   color: var(--color-text-alt);
   font-family: var(--font-headings);
+  tab-size: 4;
 
   p {
     white-space: pre-wrap;
