@@ -1,6 +1,6 @@
 ---
 title: "What Can't Jesus Do? (Mark 6)"
-description: ''
+description: "The people of Nazareth put Jesus in a box, thus rejecting him. Revelling in the boundless, humble love of God will keep us in a place of constant delight and joy, protected from our inclinations toward over-familiarity and contempt."
 author: James Steinbach
 date: 2024-07-07
 layout: index
@@ -105,4 +105,4 @@ And third, at the core of incarnation is authentic relationship: genuine love. J
 
 Is anyone more powerful than God? Can anyone outmatch Jesus? No, not remotely. But at the same time, I would affirm God's ability to willingly submit to a situation or context that entails genuine constraint and the back-and-forth of authentic relationship. It would be a sad thing for us to promote a lofty, exalted view of omnipotence in a way that implies that God isn't allow to condescend. How impoverished is a theology of sovereignty that would prohibit God from sovereignly choosing to experience the genuine constraints of authentic relationship. To the contrary, is there a better testimony to true power than the willingness to set power aside, become one with the powerless, and rescue them to share in that perfect power? In God incarnate, we see that the truest kind of power is love.
 
-Mark has shown us how the familiarity of the Nazarenes led to their contempt toward Jesus. His description of Jesus' response to that unbelief has provided us a test case for evaluating our willingness to consider surprising things about Jesus. In response to that tension, we must learn who God is through story (Scripture's default genre), recognize the mystery of Jesus' incarnation, and finally, see the genuine relationship love of God for us in every description of constraint or limitation. These things, especially revelling in the boundless, humble love of God, will keep us in a place of constant delight and joy, protected from our inclinations toward over-familiarity and contempt.
+Mark has shown us how the familiarity of the Nazarenes led to their contempt toward Jesus. His description of Jesus' response to that unbelief has provided us a test case for evaluating our willingness to consider surprising things about Jesus. In response to that tension, we must learn who God is through story (Scripture's default genre), recognize the mystery of Jesus' incarnation, and finally, see the genuine relationship love of God for us in every description of constraint or limitation. These things, especially revelling in the boundless, humble love of God will keep us in a place of constant delight and joy, protected from our inclinations toward over-familiarity and contempt.
