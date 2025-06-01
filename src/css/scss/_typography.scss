@@ -85,6 +85,10 @@ blockquote {
     font-style: normal;
     vertical-align: super;
   }
+
+  strong {
+    font-weight: 900;
+  }
 }
 
 a {
@@ -108,6 +112,20 @@ button {
   &:focus {
     outline: 2px solid currentColor;
     outline-offset: 2px;
+  }
+}
+
+li {
+  margin: 0 0 var(--spacing-tiny);
+}
+
+ul, ol {
+  margin: var(--spacing) 0;
+  padding-left: var(--spacing-small);
+
+  ul &,
+  ol & {
+    margin-top: var(--spacing-tiny);
   }
 }
 
