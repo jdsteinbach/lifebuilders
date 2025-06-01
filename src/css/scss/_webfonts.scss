@@ -30,6 +30,22 @@
   src: url('../fonts/lato-v23-latin-ext_latin-700italic-subset.woff2') format('woff2');
 }
 
+/* lato-900 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/LatoLatin-Black.woff2') format('woff2');
+}
+
+/* lato-900italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: url('../fonts/LatoLatin-BlackItalic.woff2') format('woff2');
+}
+
 /* lora-regular - latin */
 @font-face {
   font-family: 'Lora';
